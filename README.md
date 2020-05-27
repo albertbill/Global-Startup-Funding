@@ -1,4 +1,4 @@
-![alt text](img/startup1.jpg)
+![alt text](img/.png)
 
 # Global Startup Funding
 It contains data visualization and data analysis about Startup Funding.
